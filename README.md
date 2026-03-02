@@ -84,6 +84,9 @@ This provides the `libvulkan.dylib` library that xemu needs to initialize Vulkan
    - Extract the zip file
    - Move `xemu.app` to your Applications folder
    - Launch and enjoy!
+  
+### Build from Source Steps
+Follow https://xemu.app/docs/dev/building-from-source/
 
 ---
 
